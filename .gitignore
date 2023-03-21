@@ -2,3 +2,7 @@ __pycache__/
 .vscode/*
 static/uploaded_videos/*.mp4
 static/cartoonized_images/*.jpg
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
